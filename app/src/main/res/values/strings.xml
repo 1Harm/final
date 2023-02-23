@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Booking</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="btD">DESTINATIONS</string>
+    <string name="btB">BOOK FLIGHT</string>
+    <string name="btL">LOGIN</string>
+    <string name="btC">CONTACT US</string>
+    <string name="btS">SHARE</string>
+    <string-array name="editMenu">
+        <item>Destination</item>
+        <item>Depart</item>
+    </string-array>
+    <string name="destination">Destination Country</string>
+    <string name="departure">Departure</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>USA</item>
+        <item>India</item>
+        <item>Mexico</item>
+        <item>Kazakhstan</item>
+        <item>Italy</item>
+        <item>Korea</item>
+        <item>Switzerland</item>
+        <item>Tailand</item>
+        <item>Turkey</item>
+        <item>United Kingdom</item>
+        <item>Spain</item>
+        <item>Canada</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
